@@ -14,12 +14,17 @@
     Features:
     -> Patient Management: allows the admin to add, update, and delete patient records from the database.
     -> Appointment Management: analyze the scheduling and tracking of patient appointments.
-    -> Medical Specializations: provides functionality for managing medical specializations within the system.
-    -> Medication Management: facilitates the tracking and administration of medications prescribed to patients.
+    -> Medical Specializations: provides functionality for managing medical specializations within the 
+       system.
+    -> Medication Management: facilitates the tracking and administration of medications prescribed to 
+       patients.
     
     Usage of the app:
-    -> Adding a Patient: navigate to the "Add Patient" page, fill in the required information, and submit the form to add a new patient to the database.
-    -> Updating Patient Information: access the patient's record and make the necessary changes using the provided interface.
+    -> Adding a Patient: navigate to the "Add Patient" page, fill in the required information, and submit the 
+       form to add a new patient to the database.
+    -> Updating Patient Information: access the patient's record and make the necessary changes using the 
+       provided interface.
     -> Deleting a Patient: select the patient to be deleted and confirm the action to remove them from the system.
-    -> Managing Appointments: utilize the appointment management functionality to schedule and track patient appointments efficiently.
+    -> Managing Appointments: utilize the appointment management functionality to schedule and track patient 
+       appointments efficiently.
     -> Medical Prescriptions: generate medical prescriptions for patients directly from the application interface.
