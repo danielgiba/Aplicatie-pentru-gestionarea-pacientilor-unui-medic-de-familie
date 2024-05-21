@@ -1,4 +1,4 @@
-    ----------------------------------APPLICATION FOR MANAGING PACIENTS-------------------------------- 
+    -----------------------------------APPLICATION FOR MANAGING PACIENTS--------------------------------- 
         NOTE: This project belongs to Giba George-Daniel, 332AA ACS IS - Faculty of Automatic Control and 
     Computer Science. 
 
@@ -20,11 +20,13 @@
        patients.
     
     Usage of the app:
-    -> Adding a Patient: navigate to the "Add Patient" page, fill in the required information, and submit the 
-       form to add a new patient to the database.
-    -> Updating Patient Information: access the patient's record and make the necessary changes using the 
-       provided interface.
-    -> Deleting a Patient: select the patient to be deleted and confirm the action to remove them from the system.
-    -> Managing Appointments: utilize the appointment management functionality to schedule and track patient 
-       appointments efficiently.
-    -> Medical Prescriptions: generate medical prescriptions for patients directly from the application interface.
+    -> Adding a Patient: navigate to the "Add Patient" page, fill in the required information, and 
+       submit the form to add a new patient to the database.
+    -> Updating Patient Information: access the patient's record and make the necessary changes using 
+       the provided interface.
+    -> Deleting a Patient: select the patient to be deleted and confirm the action to remove them from 
+       the system.
+    -> Managing Appointments: utilize the appointment management functionality to schedule and track 
+       patient appointments efficiently.
+    -> Medical Prescriptions: generate medical prescriptions for patients directly from the application 
+       interface.
