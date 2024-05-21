@@ -1,4 +1,4 @@
-    ------------------------------------------------------- APPLICATION FOR MANAGING PACIENTS -----------------------------------------------------------
+    ------------------------------------------------------- APPLICATION FOR MANAGING PACIENTS ----------------------------------------------------------
         NOTE: This project belongs to Giba George-Daniel, 332AA ACS IS - Faculty of Automatic Control and Computer
     Science. 
 
