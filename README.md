@@ -1,5 +1,6 @@
-    # APPLICATION FOR MANAGING PACIENTS 
-        NOTE: This project belongs to Giba George-Daniel, 332AA ACS IS - Faculty of Automatic Control and Computer
+    -----------APPLICATION FOR MANAGING PACIENTS--------- 
+        NOTE: This project belongs to Giba George-Daniel,
+    332AA ACS IS - Faculty of Automatic Control and Computer
     Science. 
 
       In this application, I've implemented an easier patient management system within a database, including their information and needs.
